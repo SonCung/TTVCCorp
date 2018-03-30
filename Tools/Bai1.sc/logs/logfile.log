@@ -1,0 +1,6 @@
+2018-03-30 09:15:20 [Thread-0] INFO  parse.Example1 - So user = 76
+2018-03-30 10:48:17 [Thread-0] INFO  parse.Example1 - So user = 79
+2018-03-30 14:08:58 [Thread-0] INFO  parse.Example1 - So user = 76
+2018-03-30 14:09:11 [Thread-0] DEBUG parse.Example1 - So user = 76
+2018-03-30 14:16:07 [Thread-0] INFO  parse.Example1 - So user = 13934
+2018-03-30 14:16:20 [Thread-0] DEBUG parse.Example1 - So user = 13934
